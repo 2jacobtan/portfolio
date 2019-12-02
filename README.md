@@ -1,14 +1,11 @@
-#HackerRank
+# HackerRank
 
 https://www.hackerrank.com/jacob_tan_en
 
-#recent work
+# recent work
 
-Basic face detection
-
+### Basic face detection
 https://github.com/2jacobtan/basic-face-detection
 
-
-Data analysis / visualisation
-
+### Data analysis / visualisation
 https://colab.research.google.com/drive/1XJRT4m2Sj-W4rbFFqs2VIONg66NHrIgQ
