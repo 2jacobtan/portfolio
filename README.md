@@ -2,7 +2,7 @@
 
 https://www.hackerrank.com/jacob_tan_en
 
-# recent work
+# Recent Work
 
 ### Basic face detection
 https://github.com/2jacobtan/basic-face-detection
