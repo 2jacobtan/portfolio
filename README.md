@@ -1,4 +1,4 @@
-# HackerRank
+thoughts at https://medium.com/@jacob.tan.en
 
 https://www.hackerrank.com/jacob_tan_en
 
