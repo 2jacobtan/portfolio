@@ -4,6 +4,12 @@ https://www.hackerrank.com/jacob_tan_en
 
 # Recent Work
 
+### CIS 194: Introduction to Haskell (Fall 2016)
+Course website: https://www.cis.upenn.edu/~cis194/fall16/
+
+Sokoban game I am writing as part of the course:
+https://code.world/gallery.html?path=/gallery/F3n2v53HgEbdNj8YnPe2sXQ?mode=haskell
+
 ### Basic face detection
 https://github.com/2jacobtan/basic-face-detection
 
