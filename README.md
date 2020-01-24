@@ -7,7 +7,7 @@ https://www.hackerrank.com/jacob_tan_en
 ### CIS 194: Introduction to Haskell (Fall 2016) -- I started this in January 2020; ongoing
 Course website: https://www.cis.upenn.edu/~cis194/fall16/
 
-Sokoban game I am writing as part of the course:
+Sokoban game I have written as part of the course:
 https://code.world/gallery.html?path=/gallery/F3n2v53HgEbdNj8YnPe2sXQ?mode=haskell
 
 ### Basic face detection
