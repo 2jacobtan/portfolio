@@ -4,7 +4,8 @@ https://www.hackerrank.com/jacob_tan_en
 
 # Recent Work
 
-### CIS 194: Introduction to Haskell (Fall 2016) -- I started this in January 2020; stopped in February. Finished up to week 8.
+### CIS 194: Introduction to Haskell (Fall 2016)
+-- January to February 2020; Finished up to week 8.
 Course website: https://www.cis.upenn.edu/~cis194/fall16/
 
 Sokoban game I have written as part of the course:
